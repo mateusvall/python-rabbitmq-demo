@@ -24,4 +24,7 @@ uv sync
 
 ## Inicialização
 
-1. uvicorn app.server:app --reload
+```bash
+uvicorn app.server:app --reload
+
+```
