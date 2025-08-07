@@ -18,6 +18,7 @@ Este projeto demonstra o uso de RabbitMQ com FastAPI para processamento assíncr
 
 ```bash
 git clone https://github.com/mateusvall/python-rabbitmq-demo
+cd python-rabbitmq-demo
 uv sync
 
 ```
